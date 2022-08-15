@@ -1,6 +1,6 @@
 @font-face {
     font-family: Roboto;
-    src: url("src/assets/Fonts/Roboto-Bold.ttf") format('truetype');
+    src: url("src/assets/Fonts/Roboto-Regular.ttf") format('truetype');
 }
 
 #Bem-Vindo{
@@ -96,14 +96,3 @@ dd{
     background-color: white;
 }
 
-/*
-#lastrow{
-    padding-left: 5vw;
-    padding-right: 5vw;
-    width: 95vw;
-    display: flex;
-    justify-content: space-between;
-}
-
-
-*/
