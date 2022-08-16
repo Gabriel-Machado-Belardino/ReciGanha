@@ -13,3 +13,8 @@
     border: none;
 }
 
+.list-group-item::before{
+  content: url('src/assets/casa-icon.png');
+}
+
+
