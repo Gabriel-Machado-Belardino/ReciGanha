@@ -4,7 +4,7 @@
     background: rgba(0, 0, 0, 0.3) url("src/assets/ImageHome.jpeg");
     background-size: cover;
     background-blend-mode: darken;
-    
+
 }
 
 .cen{
@@ -15,16 +15,37 @@
 }
 
 #textbox{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0,0,3);
     border-radius: 25px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, Helvetica, sans-serif;
     color: white;
     padding-top: 4vh;
     padding-bottom: 4vh;
     min-height: 18vh;
-    max-height: 30vh;    
+    max-height: 30vh;
+    border: black;
 }
+#textebox:hover{
+color:#59AE33;
+}
+
+#texbox{
+  background-color: rpba (0,0,0,0,3);
+  border-radius: 20px;
+  text-align:center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: white;
+  padding-right: 4vh;
+  padding-bottom: 4hv;
+  min-height: 18vh;
+  max-height: 30vh;
+  border-bottom: black;
+}
+#textbox:hover{
+  color:gre;
+}
+
 #text{
     padding-top: 3.5vh;
 }
